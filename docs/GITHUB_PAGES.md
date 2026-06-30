@@ -1,6 +1,6 @@
 # GitHub Pages Deployment
 
-The public deployment is built from the repository root into `.pages-dist` and pushed to the `gh-pages` branch.
+The public deployment is built from the repository root into `.pages-dist` and published by the GitHub Actions workflow at `.github/workflows/pages.yml`.
 
 ## Build
 
@@ -21,6 +21,5 @@ https://m1592361997-hash.github.io/FOR-ME/
 GitHub Pages should be configured to deploy from:
 
 ```text
-branch: gh-pages
-folder: /
+source: GitHub Actions
 ```
