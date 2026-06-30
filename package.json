@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
+    "build:pages": "node scripts/build-pages.mjs",
     "serve": "node scripts/serve.mjs"
   },
   "engines": {
