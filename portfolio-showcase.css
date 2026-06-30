@@ -1,18 +1,22 @@
 .portfolio-showcase {
   position: fixed;
-  inset: 0;
+  top: clamp(26px, 4.8vh, 58px);
+  right: clamp(34px, 6vw, 118px);
+  bottom: clamp(26px, 4.8vh, 58px);
+  left: clamp(34px, 6vw, 118px);
   z-index: 9998;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  min-height: 100vh;
-  padding: clamp(26px, 7vh, 84px) clamp(18px, 4vw, 64px);
-  background: #f4f3ee;
+  min-height: 0;
+  padding: clamp(72px, 8vh, 104px) clamp(28px, 5vw, 76px) clamp(38px, 5vh, 70px);
+  overflow: hidden;
+  background: #fff;
   color: #111;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transform: translateY(18px);
+  transform: translateY(18px) scale(0.985);
   transition: opacity 360ms ease, visibility 360ms ease, transform 360ms ease;
 }
 
@@ -20,7 +24,7 @@
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  transform: translateY(0);
+  transform: translateY(0) scale(1);
 }
 
 body.portfolio-showcase-open {
@@ -28,7 +32,7 @@ body.portfolio-showcase-open {
 }
 
 .portfolio-showcase__inner {
-  width: min(100%, 1280px);
+  width: min(100%, 1620px);
   margin: 0 auto;
 }
 
@@ -37,7 +41,7 @@ body.portfolio-showcase-open {
   align-items: center;
   min-height: 22px;
   padding: 0 10px;
-  margin-bottom: 22px;
+  margin-bottom: 24px;
   border: 1px solid #111;
   border-radius: 999px;
   font-size: 11px;
@@ -47,10 +51,10 @@ body.portfolio-showcase-open {
 }
 
 .portfolio-showcase__title {
-  max-width: 760px;
-  margin: 0 0 clamp(28px, 6vh, 68px);
+  max-width: 980px;
+  margin: 0 0 clamp(34px, 6vh, 72px);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
-  font-size: clamp(32px, 5.6vw, 76px);
+  font-size: clamp(44px, 5.9vw, 96px);
   line-height: 0.98;
   font-weight: 650;
   letter-spacing: 0;
@@ -58,8 +62,9 @@ body.portfolio-showcase-open {
 
 .portfolio-showcase__subline {
   display: block;
-  margin-top: 12px;
-  font-size: clamp(16px, 2vw, 26px);
+  max-width: 720px;
+  margin-top: 14px;
+  font-size: clamp(18px, 2vw, 30px);
   line-height: 1.18;
   color: rgba(0, 0, 0, 0.68);
 }
@@ -72,10 +77,10 @@ body.portfolio-showcase-open {
 .portfolio-showcase__rail {
   display: grid;
   grid-auto-flow: column;
-  grid-auto-columns: minmax(220px, 1fr);
-  gap: 12px;
+  grid-auto-columns: minmax(270px, 1fr);
+  gap: 16px;
   overflow-x: auto;
-  padding: 0 42px 14px 0;
+  padding: 0 50px 16px 0;
   scroll-snap-type: x proximity;
   scrollbar-width: none;
 }
@@ -86,8 +91,8 @@ body.portfolio-showcase-open {
 
 .portfolio-showcase-card {
   position: relative;
-  min-height: 190px;
-  padding: 18px;
+  min-height: clamp(230px, 18vw, 320px);
+  padding: clamp(20px, 2vw, 30px);
   overflow: hidden;
   color: #fff;
   border-radius: 8px;
@@ -117,9 +122,9 @@ body.portfolio-showcase-open {
 .portfolio-showcase-card__title {
   position: relative;
   z-index: 2;
-  max-width: 140px;
+  max-width: 180px;
   margin: 0;
-  font-size: 22px;
+  font-size: clamp(24px, 2vw, 34px);
   line-height: 1.02;
   font-weight: 500;
   letter-spacing: 0;
@@ -127,8 +132,8 @@ body.portfolio-showcase-open {
 
 .portfolio-showcase-card__meta {
   position: absolute;
-  left: 18px;
-  bottom: 18px;
+  left: clamp(20px, 2vw, 30px);
+  bottom: clamp(18px, 2vw, 28px);
   z-index: 2;
   margin: 0;
   font-size: 11px;
@@ -138,9 +143,9 @@ body.portfolio-showcase-open {
 
 .portfolio-showcase-card__image {
   position: absolute;
-  right: 18px;
-  top: 18px;
-  width: min(48%, 136px);
+  right: clamp(20px, 2vw, 30px);
+  top: clamp(20px, 2vw, 30px);
+  width: min(48%, 190px);
   aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
@@ -149,8 +154,8 @@ body.portfolio-showcase-open {
 
 .portfolio-showcase-card__arrow {
   position: absolute;
-  right: 12px;
-  bottom: 12px;
+  right: 16px;
+  bottom: 16px;
   z-index: 3;
   display: inline-flex;
   align-items: center;
@@ -190,43 +195,56 @@ body.portfolio-showcase-open {
 }
 
 .portfolio-showcase__close {
-  position: fixed;
-  right: clamp(18px, 3vw, 42px);
-  bottom: clamp(18px, 3vw, 42px);
+  position: absolute;
+  top: 22px;
+  left: 22px;
   z-index: 9999;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 48px;
-  height: 48px;
-  border: 2px solid #111;
-  border-radius: 50%;
-  background: transparent;
+  gap: 8px;
+  width: auto;
+  height: 38px;
+  padding: 0 14px;
+  border: 1px solid #111;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
   color: #111;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
   cursor: pointer;
 }
 
 .portfolio-showcase__close::before,
 .portfolio-showcase__close::after {
   content: "";
-  position: absolute;
-  width: 22px;
-  height: 2px;
-  background: currentColor;
+  position: static;
+  width: auto;
+  height: auto;
+  background: transparent;
 }
 
 .portfolio-showcase__close::before {
-  transform: rotate(45deg);
+  content: "\2190";
+  font-size: 16px;
+  line-height: 1;
+  transform: none;
 }
 
 .portfolio-showcase__close::after {
-  transform: rotate(-45deg);
+  content: "\8FD4\56DE\4E0A\4E00\9875";
+  transform: none;
 }
 
 @media (max-width: 720px) {
   .portfolio-showcase {
+    top: 18px;
+    right: 14px;
+    bottom: 18px;
+    left: 14px;
     justify-content: flex-start;
-    padding-top: 56px;
+    padding: 72px 18px 24px;
   }
 
   .portfolio-showcase__title {
