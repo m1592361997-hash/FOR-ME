@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://m1592361997-hash.github.io/FOR-ME/sitemap.xml
