@@ -1,7 +1,5 @@
 # FOR-ME
 
-Authorized static mirror of `https://www.laxspace.co/`.
-
 The captured site files are kept at the repository root so original absolute paths such as `/_next/...`, `/portfolio/...`, `/font/...`, and `/project01.png` continue to resolve correctly when served locally.
 
 ## Run Locally
@@ -36,4 +34,3 @@ The HTML, CSS, JavaScript chunks, fonts, video, PDF, and route snapshots should 
 
 - This is a public static/runtime capture, not the private source repository.
 - `MIRROR_REPORT.md` and `_mirror-report.json` document what was downloaded and which source URLs returned 404.
-
