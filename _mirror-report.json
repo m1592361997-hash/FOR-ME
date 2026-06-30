@@ -1,0 +1,1128 @@
+{
+  "sourceOrigin": "https://www.laxspace.co",
+  "createdAt": "2026-06-30T13:48:48.241Z",
+  "downloads": [
+    {
+      "url": "https://www.laxspace.co/",
+      "path": "index.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "seed"
+    },
+    {
+      "url": "https://www.laxspace.co/robots.txt",
+      "path": "robots.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 218,
+      "discoveredFrom": "seed"
+    },
+    {
+      "url": "https://www.laxspace.co/sitemap.xml",
+      "path": "sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "bytes": 2958,
+      "discoveredFrom": "seed"
+    },
+    {
+      "url": "https://www.laxspace.co/laxspace-logo.svg",
+      "path": "laxspace-logo.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 2569,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/resume.png",
+      "path": "resume.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 2761599,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css",
+      "path": "_next/static/css/6f743be71c2d51a8.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 2697,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/css/d71b457fc5a42508.css",
+      "path": "_next/static/css/d71b457fc5a42508.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 26335,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/webpack-8875c3c604bf1fe0.js",
+      "path": "_next/static/chunks/webpack-8875c3c604bf1fe0.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 4355,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/fd9d1056-c51729dc2f9f6123.js",
+      "path": "_next/static/chunks/fd9d1056-c51729dc2f9f6123.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 172831,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/23-4a1229f0f677f3ef.js",
+      "path": "_next/static/chunks/23-4a1229f0f677f3ef.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 121752,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/main-app-f73cdb3bce740b12.js",
+      "path": "_next/static/chunks/main-app-f73cdb3bce740b12.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 462,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/b536a0f1-6f0fba19e29f409e.js",
+      "path": "_next/static/chunks/b536a0f1-6f0fba19e29f409e.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 667866,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/972-fdfbcd4adfb253f2.js",
+      "path": "_next/static/chunks/972-fdfbcd4adfb253f2.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 290755,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js",
+      "path": "_next/static/chunks/app/page-b093ac8c71f89a63.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 62251,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/app/layout-f25391dc081e51ea.js",
+      "path": "_next/static/chunks/app/layout-f25391dc081e51ea.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 7986,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/site.webmanifest",
+      "path": "fav/site.webmanifest",
+      "status": 200,
+      "contentType": "application/manifest+json; charset=utf-8",
+      "bytes": 263,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/favicon.ico",
+      "path": "fav/favicon.ico",
+      "status": 200,
+      "contentType": "image/vnd.microsoft.icon",
+      "bytes": 15406,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/favicon-16x16.png",
+      "path": "fav/favicon-16x16.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 557,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/favicon-32x32.png",
+      "path": "fav/favicon-32x32.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 1013,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/apple-touch-icon.png",
+      "path": "fav/apple-touch-icon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 6905,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/android-chrome-192x192.png",
+      "path": "fav/android-chrome-192x192.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 7728,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/fav/android-chrome-512x512.png",
+      "path": "fav/android-chrome-512x512.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 22036,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+      "path": "_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 91381,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co/Sandbox.webm",
+      "path": "Sandbox.webm",
+      "status": 200,
+      "contentType": "video/webm",
+      "bytes": 2679570,
+      "discoveredFrom": "https://www.laxspace.co/"
+    },
+    {
+      "url": "https://www.laxspace.co//sitemap.xml",
+      "path": "sitemap.xml",
+      "status": 200,
+      "contentType": "application/xml",
+      "bytes": 2958,
+      "discoveredFrom": "https://www.laxspace.co/robots.txt"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works",
+      "path": "__queries__/view-works.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=stamped",
+      "path": "__queries__/view-works-project-stamped.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=fukuda",
+      "path": "__queries__/view-works-project-fukuda.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=reckn",
+      "path": "__queries__/view-works-project-reckn.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=a3-design-inc",
+      "path": "__queries__/view-works-project-a3-design-inc.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=motion-blue",
+      "path": "__queries__/view-works-project-motion-blue.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=meme-planning",
+      "path": "__queries__/view-works-project-meme-planning.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=sake-of-nada",
+      "path": "__queries__/view-works-project-sake-of-nada.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=sougen",
+      "path": "__queries__/view-works-project-sougen.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=utsubo",
+      "path": "__queries__/view-works-project-utsubo.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=oedo-food-hall",
+      "path": "__queries__/view-works-project-oedo-food-hall.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=kuma-hachimitsu",
+      "path": "__queries__/view-works-project-kuma-hachimitsu.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=avoidant",
+      "path": "__queries__/view-works-project-avoidant.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/?view=works&project=resume",
+      "path": "__queries__/view-works-project-resume.html",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 20923,
+      "discoveredFrom": "https://www.laxspace.co/sitemap.xml"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-regular-webfont.woff2",
+      "path": "font/brockmann-regular-webfont.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 16888,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-regular-webfont.woff",
+      "path": "font/brockmann-regular-webfont.woff",
+      "status": 200,
+      "contentType": "font/woff",
+      "bytes": 25088,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-regular-webfont.ttf",
+      "path": "font/brockmann-regular-webfont.ttf",
+      "status": 200,
+      "contentType": "font/ttf",
+      "bytes": 56872,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-regular-webfont.eot",
+      "path": "font/brockmann-regular-webfont.eot",
+      "status": 200,
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 19676,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-medium-webfont.woff2",
+      "path": "font/brockmann-medium-webfont.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 17328,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-medium-webfont.woff",
+      "path": "font/brockmann-medium-webfont.woff",
+      "status": 200,
+      "contentType": "font/woff",
+      "bytes": 25708,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-medium-webfont.ttf",
+      "path": "font/brockmann-medium-webfont.ttf",
+      "status": 200,
+      "contentType": "font/ttf",
+      "bytes": 57140,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/font/brockmann-medium-webfont.eot",
+      "path": "font/brockmann-medium-webfont.eot",
+      "status": 200,
+      "contentType": "application/vnd.ms-fontobject",
+      "bytes": 20211,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/6f743be71c2d51a8.css"
+    },
+    {
+      "url": "https://www.laxspace.co/pin.svg",
+      "path": "pin.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 228,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/d71b457fc5a42508.css"
+    },
+    {
+      "url": "https://www.laxspace.co/cutout.svg",
+      "path": "cutout.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 249,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/css/d71b457fc5a42508.css"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/a4634e51.0dd875ed45f53a93.js",
+      "path": "_next/static/chunks/a4634e51.0dd875ed45f53a93.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 498540,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/webpack-8875c3c604bf1fe0.js"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/0f8af13e.f8427aa4e93e32d3.js",
+      "path": "_next/static/chunks/0f8af13e.f8427aa4e93e32d3.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 82023,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/webpack-8875c3c604bf1fe0.js"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js",
+      "path": "_next/static/chunks/239.2ca972a91379f4e1.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 989389,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/webpack-8875c3c604bf1fe0.js"
+    },
+    {
+      "url": "https://www.laxspace.co/_next/static/chunks/398.8e11d0f1f595c5c7.js",
+      "path": "_next/static/chunks/398.8e11d0f1f595c5c7.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 137840,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/webpack-8875c3c604bf1fe0.js"
+    },
+    {
+      "url": "https://www.laxspace.co/websiteMonth.svg",
+      "path": "websiteMonth.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 856,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/websiteDay.svg",
+      "path": "websiteDay.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1261,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/Lax-Chee_Resume_2025.pdf",
+      "path": "Lax-Chee_Resume_2025.pdf",
+      "status": 200,
+      "contentType": "application/pdf",
+      "bytes": 793827,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/smile.svg",
+      "path": "smile.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 1757,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/duct_tape.glb",
+      "path": "duct_tape.glb",
+      "status": 200,
+      "contentType": "model/gltf-binary",
+      "bytes": 4650436,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/texture.png",
+      "path": "texture.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 4504803,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/planeTex.png",
+      "path": "planeTex.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39143,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project01.png",
+      "path": "project01.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 362495,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/stamped-01.webp",
+      "path": "portfolio/stamped-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 828450,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/stamped-01.webp",
+      "path": "portfolio/tiny/stamped-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1929,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/stamped-03.webp",
+      "path": "portfolio/stamped-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 236049,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/stamped-03.webp",
+      "path": "portfolio/tiny/stamped-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1020,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/stamped-04.webp",
+      "path": "portfolio/stamped-04.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 275566,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/stamped-04.webp",
+      "path": "portfolio/tiny/stamped-04.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 931,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/stamped-05.webp",
+      "path": "portfolio/stamped-05.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 193820,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/stamped-05.webp",
+      "path": "portfolio/tiny/stamped-05.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 904,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project02.png",
+      "path": "project02.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 332328,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/fukuda-01.webp",
+      "path": "portfolio/fukuda-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1369583,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/fukuda-01.webp",
+      "path": "portfolio/tiny/fukuda-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 3165,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project03.png",
+      "path": "project03.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 927458,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/reck-01.webp",
+      "path": "portfolio/reck-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 437469,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/reck-01.webp",
+      "path": "portfolio/tiny/reck-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1113,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/reck-02.webp",
+      "path": "portfolio/reck-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 375409,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/reck-02.webp",
+      "path": "portfolio/tiny/reck-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1179,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/reck-03.webp",
+      "path": "portfolio/reck-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 156854,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/reck-03.webp",
+      "path": "portfolio/tiny/reck-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 910,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project04.png",
+      "path": "project04.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 228756,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/a3-01.webp",
+      "path": "portfolio/a3-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1026365,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/a3-01.webp",
+      "path": "portfolio/tiny/a3-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1354,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/a3-02.webp",
+      "path": "portfolio/a3-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 331323,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/a3-02.webp",
+      "path": "portfolio/tiny/a3-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1249,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/a3-03.webp",
+      "path": "portfolio/a3-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 639402,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/a3-03.webp",
+      "path": "portfolio/tiny/a3-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1216,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project05.png",
+      "path": "project05.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 1056275,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/motionBlue-01.webp",
+      "path": "portfolio/motionBlue-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 908713,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/motionBlue-01.webp",
+      "path": "portfolio/tiny/motionBlue-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1628,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/motionBlue-02.webp",
+      "path": "portfolio/motionBlue-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 523499,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/motionBlue-02.webp",
+      "path": "portfolio/tiny/motionBlue-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1197,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project06.png",
+      "path": "project06.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 86398,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/meme-01.webp",
+      "path": "portfolio/meme-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 870398,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/meme-01.webp",
+      "path": "portfolio/tiny/meme-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1486,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/meme-02.webp",
+      "path": "portfolio/meme-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 530432,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/meme-02.webp",
+      "path": "portfolio/tiny/meme-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1289,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project07.png",
+      "path": "project07.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 389627,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sake-01.webp",
+      "path": "portfolio/sake-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 565861,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sake-01.webp",
+      "path": "portfolio/tiny/sake-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1296,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sake-02.webp",
+      "path": "portfolio/sake-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 904575,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sake-02.webp",
+      "path": "portfolio/tiny/sake-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1447,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sake-03.webp",
+      "path": "portfolio/sake-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 487840,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sake-03.webp",
+      "path": "portfolio/tiny/sake-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1252,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project08.png",
+      "path": "project08.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 289231,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-01.webp",
+      "path": "portfolio/sougen-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 776458,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-01.webp",
+      "path": "portfolio/tiny/sougen-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1640,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-02.webp",
+      "path": "portfolio/sougen-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 63829,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-02.webp",
+      "path": "portfolio/tiny/sougen-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 817,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-03.webp",
+      "path": "portfolio/sougen-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 109236,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-03.webp",
+      "path": "portfolio/tiny/sougen-03.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 896,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-04.webp",
+      "path": "portfolio/sougen-04.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 145188,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-04.webp",
+      "path": "portfolio/tiny/sougen-04.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 914,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-05.webp",
+      "path": "portfolio/sougen-05.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 69988,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-05.webp",
+      "path": "portfolio/tiny/sougen-05.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 846,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/sougen-06.webp",
+      "path": "portfolio/sougen-06.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 178233,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/sougen-06.webp",
+      "path": "portfolio/tiny/sougen-06.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 920,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project09.png",
+      "path": "project09.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 462676,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/utsubo-01.webp",
+      "path": "portfolio/utsubo-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 362120,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/utsubo-01.webp",
+      "path": "portfolio/tiny/utsubo-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1675,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project10.png",
+      "path": "project10.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 245729,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/oedoFoodHall-01.webp",
+      "path": "portfolio/oedoFoodHall-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1037799,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/oedoFoodHall-01.webp",
+      "path": "portfolio/tiny/oedoFoodHall-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1502,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/oedoFoodHall-02.webp",
+      "path": "portfolio/oedoFoodHall-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1456047,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/oedoFoodHall-02.webp",
+      "path": "portfolio/tiny/oedoFoodHall-02.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1542,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project11.png",
+      "path": "project11.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 577145,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/kumaHachimtsu-01.webp",
+      "path": "portfolio/kumaHachimtsu-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 537087,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/kumaHachimtsu-01.webp",
+      "path": "portfolio/tiny/kumaHachimtsu-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1244,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project12.png",
+      "path": "project12.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 536119,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/avoidant-01.webp",
+      "path": "portfolio/avoidant-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 297477,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/portfolio/tiny/avoidant-01.webp",
+      "path": "portfolio/tiny/avoidant-01.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 1046,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/project13.png",
+      "path": "project13.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 383949,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/_vercel/insights/script.js",
+      "path": "_vercel/insights/script.js",
+      "status": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "bytes": 2495,
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/layout-f25391dc081e51ea.js"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://www.laxspace.co/portfolio/",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/page-b093ac8c71f89a63.js"
+    },
+    {
+      "url": "https://www.laxspace.co/insights/script.js",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/app/layout-f25391dc081e51ea.js"
+    },
+    {
+      "url": "https://www.laxspace.co/android-chrome-192x192.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/fav/site.webmanifest"
+    },
+    {
+      "url": "https://www.laxspace.co/android-chrome-512x512.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/fav/site.webmanifest"
+    },
+    {
+      "url": "https://www.laxspace.co/px.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    },
+    {
+      "url": "https://www.laxspace.co/nx.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    },
+    {
+      "url": "https://www.laxspace.co/py.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    },
+    {
+      "url": "https://www.laxspace.co/ny.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    },
+    {
+      "url": "https://www.laxspace.co/pz.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    },
+    {
+      "url": "https://www.laxspace.co/nz.png",
+      "status": 404,
+      "reason": "HTTP 404",
+      "discoveredFrom": "https://www.laxspace.co/_next/static/chunks/239.2ca972a91379f4e1.js"
+    }
+  ],
+  "external": [
+    "https://vercel.live/_next-live/feedback/feedback.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-M13S2KFHB3"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "for-me-laxspace-mirror",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
