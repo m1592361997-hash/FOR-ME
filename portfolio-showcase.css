@@ -11,8 +11,9 @@
   min-height: 0;
   padding: clamp(72px, 8vh, 104px) clamp(28px, 5vw, 76px) clamp(38px, 5vh, 70px);
   overflow: hidden;
-  background: #fff;
-  color: #111;
+  border-radius: clamp(18px, 2.2vw, 34px);
+  background: #050505;
+  color: #fff;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
@@ -47,7 +48,9 @@ body.portfolio-showcase-open {
   font-size: 11px;
   line-height: 1;
   letter-spacing: 0;
-  background: #fff;
+  border-color: rgba(255, 255, 255, 0.72);
+  background: transparent;
+  color: #fff;
 }
 
 .portfolio-showcase__title {
@@ -66,7 +69,7 @@ body.portfolio-showcase-open {
   margin-top: 14px;
   font-size: clamp(18px, 2vw, 30px);
   line-height: 1.18;
-  color: rgba(0, 0, 0, 0.68);
+  color: rgba(255, 255, 255, 0.72);
 }
 
 .portfolio-showcase__rail-wrap {
@@ -202,14 +205,13 @@ body.portfolio-showcase-open {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
-  width: auto;
-  height: 38px;
-  padding: 0 14px;
-  border: 1px solid #111;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.9);
-  color: #111;
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+  border-radius: 50%;
+  background: rgba(5, 5, 5, 0.72);
+  color: #fff;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
   font-size: 13px;
   font-weight: 600;
@@ -219,22 +221,46 @@ body.portfolio-showcase-open {
 .portfolio-showcase__close::before,
 .portfolio-showcase__close::after {
   content: "";
-  position: static;
-  width: auto;
-  height: auto;
-  background: transparent;
+  position: absolute;
+  background: currentColor;
 }
 
 .portfolio-showcase__close::before {
   content: "\2190";
+  position: static;
+  background: transparent;
   font-size: 16px;
   line-height: 1;
   transform: none;
 }
 
 .portfolio-showcase__close::after {
-  content: "\8FD4\56DE\4E0A\4E00\9875";
-  transform: none;
+  content: "";
+  display: none;
+}
+
+.portfolio-showcase__close--dismiss {
+  right: 22px;
+  left: auto;
+}
+
+.portfolio-showcase__close--dismiss::before,
+.portfolio-showcase__close--dismiss::after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 18px;
+  height: 2px;
+  border-radius: 999px;
+  background: currentColor;
+}
+
+.portfolio-showcase__close--dismiss::before {
+  transform: rotate(45deg);
+}
+
+.portfolio-showcase__close--dismiss::after {
+  transform: rotate(-45deg);
 }
 
 @media (max-width: 720px) {
